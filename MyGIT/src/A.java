@@ -1,6 +1,6 @@
 
 public class A {
-	// hi
+	// hihi
 	private static int x = 3;
 	private static int y = 2;
 	
