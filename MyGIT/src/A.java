@@ -6,7 +6,9 @@ public class A {
 	
 	public static void main(String[] args) {
 		B plus = new B();
+		C minus = new C();
 		
 		System.out.println(plus.cal(x, y));
+		System.out.println(minus.cal(x, y));
 	}
 }
